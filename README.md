@@ -27,6 +27,9 @@ Photoshopを使用して作成しました。
   
 2018年2月にHAL大阪で開催した就職作品プレゼンテーションに出展しました。
 
+BOOK SEEKER 差分ページ   
+https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seeker
+
 <br>
 <br>
 
