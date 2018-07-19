@@ -7,15 +7,18 @@
 #### QUICK STORE  
 <img width="300" alt="QUICK STORE" src="https://user-images.githubusercontent.com/39975901/42889103-99360f68-8ae4-11e8-90c7-44c0e1e4e8ec.png">
   
-2017年3月にHAL大阪で開催したHEW(HALイベントウィーク)で出展しました。
+2017年3月にHAL大阪で開催されたHEW(HALイベントウィーク)に出展。  
+通販で注文した商品が早く届いて欲しいという思いから制作。  
+概要は、入力した自分の住所又は郵便番号から配送距離が一番近い倉庫を持っているオンラインショップを見つけられるというサービス。
 
 <br>
 <br>
 
 #### CDジャケット制作
-<img width="300" alt="QUICK STORE" src="https://user-images.githubusercontent.com/39975901/42891168-a5e2562c-8ae9-11e8-942d-ec0ea57c99e0.jpg">
+<img width="300" alt="CDジャケット" src="https://user-images.githubusercontent.com/39975901/42891168-a5e2562c-8ae9-11e8-942d-ec0ea57c99e0.jpg">
   
-Photoshopを使用して作成しました。
+Photoshopを使用して制作。  
+右側が表紙、左側が内表紙。表紙の破れた部分から内表紙を覗かせてCDを開封するワクワク感を表現。
 
 <br>
 <br>
@@ -23,9 +26,12 @@ Photoshopを使用して作成しました。
 ### WEB開発学科3年
 
 #### BOOK SEEKER
-<img width="300" alt="QUICK STORE" src="https://user-images.githubusercontent.com/39975901/42891160-a28ec1cc-8ae9-11e8-95e2-c87453f8f577.png">
+<img width="300" alt="BOOK SEEKER" src="https://user-images.githubusercontent.com/39975901/42891160-a28ec1cc-8ae9-11e8-95e2-c87453f8f577.png">
   
-2018年2月にHAL大阪で開催した就職作品プレゼンテーションに出展しました。
+2018年2月にHAL大阪で開催された就職作品プレゼンテーションに出展。  
+まだ読んでいない本を読みたい、自分好みの本が見つからないという思いから制作。  
+概要は、同じ本を登録しているユーザを探すことで、まだ読んでいない自分好みの本を見つけることができるというサービス。
+
 
 BOOK SEEKER 差分ページ   
 https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seeker
@@ -34,17 +40,20 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 <br>
 
 #### HP制作(幼稚園)
-<img width="300" alt="QUICK STORE" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png">
+<img width="300" alt="幼稚園HP" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png">
   
-子供を預けるお母さん達にに安心感をもってもらうために空に浮く雲をイメージして制作しました。
+お母さん達が子供を安心して預ける事ができる幼稚園を目指して制作。  
+空に浮ぶ雲をイメージして、安心感を表現。
 
 <br>
 <br>
 
 #### HP制作(美容室)
-<img width="300" alt="" src="https://user-images.githubusercontent.com/39975901/42889453-6fa78b6c-8ae5-11e8-8dbd-564472fbb537.jpg">
+<img width="300" alt="美容室HP" src="https://user-images.githubusercontent.com/39975901/42889453-6fa78b6c-8ae5-11e8-8dbd-564472fbb537.jpg">
   
-肌色の様なオレンジ色を使用して美容室のアットホームな雰囲気を演出しています。
+気軽に入店できるアットホームホームな美容室を目指して制作。
+人肌の色に近いオレンジ色を使用することで美容室の暖かみを表現。  
+STAFF紹介では、背景に美容室の入り口の画像を使用することでSTAFFがお出迎えをしているようにした。
 
 <br>
 <br>
