@@ -44,7 +44,7 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 #### 映画予約サイト
 <kbd><img width="300" alt="HAL CINEMA" src="https://user-images.githubusercontent.com/39975901/42956206-57f65432-8bba-11e8-8a32-d448c0454a44.png"></kbd>
   
-映画予約サイトでは映画スケジュールが重要と考え、見やすいスケジュール表を意識して制作。
+映画予約サイトでは映画スケジュールが重要と考え、見やすいスケジュール表を意識して制作。  
 左の時間軸は朝から夜までをグラデーションにして表現。
 
 <br>
