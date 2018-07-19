@@ -55,7 +55,8 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
   
 気軽に入店できるアットホームホームな美容室を目指して制作。  
 人肌の色に近いオレンジ色を使用することで美容室の暖かみを表現。  
-STAFF紹介では、背景に美容室の入り口の画像を使用することでSTAFFがお出迎えをしているようにした。
+STAFF紹介では、背景に美容室の入り口の画像を使用することでSTAFFがお出迎えをしているようにし、  
+アットホームな雰囲気を表現。
 
 <br>
 <br>
