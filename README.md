@@ -16,7 +16,7 @@
 <br>
 
 #### CDジャケット
-<kbd><img width="300" alt="CDジャケット" src="https://user-images.githubusercontent.com/39975901/42891168-a5e2562c-8ae9-11e8-942d-ec0ea57c99e0.jpg"></kbd>
+<kbd><img width="300" alt="CDジャケット" src="https://user-images.githubusercontent.com/39975901/42957426-9cb3d34e-8bbd-11e8-99a1-07dbb518108a.jpg"></kbd>
   
 Photoshopを使用して制作。  
 右側が表紙、左側が内表紙。表紙の破れた部分から内表紙を覗かせてCDを開封するワクワク感を表現。
@@ -51,7 +51,7 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 <br>
 
 #### デザインカンプ(幼稚園)
-<kbd><img width="300" alt="幼稚園デザインカンプ" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png"></kbd>
+<kbd><img width="300" alt="幼稚園デザインカンプ" src="https://user-images.githubusercontent.com/39975901/42957429-9f8cb450-8bbd-11e8-9469-09de3de86417.png"></kbd>
   
 お母さん達が子供を安心して預ける事ができる幼稚園を目指して制作。  
 空に浮ぶ雲をイメージして、安心感を表現。
