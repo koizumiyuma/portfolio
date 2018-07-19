@@ -15,7 +15,7 @@
 <br>
 <br>
 
-#### CDジャケット制作
+#### CDジャケット
 <img width="300" alt="CDジャケット" src="https://user-images.githubusercontent.com/39975901/42891168-a5e2562c-8ae9-11e8-942d-ec0ea57c99e0.jpg">
   
 Photoshopを使用して制作。  
@@ -41,8 +41,8 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 <br>
 <br>
 
-#### HP制作(幼稚園)
-<img width="300" alt="幼稚園HP" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png">
+#### デザインカンプ(幼稚園)
+<img width="300" alt="幼稚園デザインカンプ" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png">
   
 お母さん達が子供を安心して預ける事ができる幼稚園を目指して制作。  
 空に浮ぶ雲をイメージして、安心感を表現。
@@ -50,8 +50,8 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 <br>
 <br>
 
-#### HP制作(美容室)
-<img width="300" alt="美容室HP" src="https://user-images.githubusercontent.com/39975901/42889453-6fa78b6c-8ae5-11e8-8dbd-564472fbb537.jpg">
+#### デザインカンプ(美容室)
+<img width="300" alt="美容室デザインカンプ" src="https://user-images.githubusercontent.com/39975901/42889453-6fa78b6c-8ae5-11e8-8dbd-564472fbb537.jpg">
   
 気軽に入店できるアットホームホームな美容室を目指して制作。  
 人肌の色に近いオレンジ色を使用することで美容室の暖かみを表現。  
