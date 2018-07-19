@@ -41,6 +41,15 @@ https://github.com/koizumiyuma/portfolio/tree/master/productions-image/book-seek
 <br>
 <br>
 
+#### 映画予約サイト
+<img width="300" alt="HAL CINEMA" src="https://user-images.githubusercontent.com/39975901/42956206-57f65432-8bba-11e8-8a32-d448c0454a44.png">
+  
+映画予約サイトでは映画スケジュールが重要と考え、見やすいスケジュール表を意識して制作。
+左の時間軸は朝から夜までをグラデーションにして表現。
+
+<br>
+<br>
+
 #### デザインカンプ(幼稚園)
 <img width="300" alt="幼稚園デザインカンプ" src="https://user-images.githubusercontent.com/39975901/42889347-27987020-8ae5-11e8-8b8d-3ad59583be23.png">
   
