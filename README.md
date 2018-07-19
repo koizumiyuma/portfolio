@@ -10,11 +10,6 @@
 2017年3月にHAL大阪で開催したHEW(HALイベントウィーク)で出展しました。
 
 <br>
-
-HALイベントウィーク(HEW)  
-https://www.hal.ac.jp/osaka/campuslife/event
-
-<br>
 <br>
 
 #### CDジャケット制作課題
